@@ -36,6 +36,8 @@ Creating automated Laban movement annotation:
 
 Check code file [AI-HumanMotionAnalysis-Test.ipynb](https://github.com/guowenbin90/HumanMotionAnalysis/blob/main/AI-HumanMotionAnalysis-Test.ipynb)
 
+<img src="https://github.com/guowenbin90/HumanMotionAnalysis/blob/main/images/Laban%20annotation.jpg" width=60% height=60%>
+
 ## Acknowledgements<a name="Acknowledgements"></a>
 This project was supported by the 2020 UF AI Catalyst grant from the UF Office of Research. The authors acknowledge the University of Florida [HiPerGator](https://www.rc.ufl.edu/about/hipergator/) Research Computing for providing computational resources and support that have contributed to the research results reported in this publication.
 
