@@ -34,6 +34,7 @@ Creating automated Laban movement annotation:
 - Test feature extraction methods (within and across frames) to improve the annotation accuracy 
 - Input raw videos and export Laban annotated videos
 
+Check code file [AI-HumanMotionAnalysis-Test.ipynb](https://github.com/guowenbin90/HumanMotionAnalysis/blob/main/AI-HumanMotionAnalysis-Test.ipynb)
 
 ## Acknowledgements<a name="Acknowledgements"></a>
 This project was supported by the 2020 UF AI Catalyst grant from the UF Office of Research. The authors acknowledge the University of Florida [HiPerGator](https://www.rc.ufl.edu/about/hipergator/) Research Computing for providing computational resources and support that have contributed to the research results reported in this publication.
