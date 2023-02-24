@@ -46,5 +46,7 @@ This project was supported by the 2020 UF AI Catalyst grant from the UF Office o
 [Presentation Video](https://informatics.research.ufl.edu/aiovg_videos/ai-research-catalyst-fund-awardees-virtual-seminar-series-dr-angelos-barmpoutis/)
 
 ## Cite this paper<a name="Citation"></a>
-Guo, Wenbin, Osubi Craig, Timothy Difato, James Oliverio, Markus Santoso, Jill Sonke, and Angelos Barmpoutis. (2022). AI-Driven Human Motion Classification and Analysis Using Laban Movement System. In: Duffy, V.G. (eds) Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management. Anthropometry, Human Behavior, and Communication. HCII 2022. Lecture Notes in Computer Science, vol 13319. Springer, Cham. [https://doi.org/10.1007/978-3-031-05890-5_16](https://link.springer.com/chapter/10.1007/978-3-031-05890-5_16)  
 [Full PDF file](https://research.dwi.ufl.edu/page/ai-driven-human-motion-classification-and-analysis-using-laban-movement-system/)
+
+Guo, Wenbin, Osubi Craig, Timothy Difato, James Oliverio, Markus Santoso, Jill Sonke, and Angelos Barmpoutis. (2022). AI-Driven Human Motion Classification and Analysis Using Laban Movement System. In: Duffy, V.G. (eds) Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management. Anthropometry, Human Behavior, and Communication. HCII 2022. Lecture Notes in Computer Science, vol 13319. Springer, Cham. [https://doi.org/10.1007/978-3-031-05890-5_16](https://link.springer.com/chapter/10.1007/978-3-031-05890-5_16)  
+
