@@ -3,7 +3,7 @@
 ### Table of Contents
 
 1. [Introduction](#Introduction)
-2. [Project Motivation](#Problem)
+2. [Problem Statement](#Problem)
 3. [Objective](#Objective)
 4. [Presentation video](#Video)
 4. [Acknowledgements](#Acknowledgements)
